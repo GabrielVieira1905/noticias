@@ -70,9 +70,7 @@ body.menu-open::before{
 
 }
 
-.header-mobile nav.abrir {
-    right: 0;
-}
+
 
 .header-mobile nav button {
     margin-left: auto;
